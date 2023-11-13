@@ -1,0 +1,174 @@
+
+#imag{
+	padding-left:20px;
+	width:120px;
+	height:120px;
+}
+#es{
+	padding-top:30px;
+	padding-bottom:30px;
+	display:flex;
+	background-color: #58b66a;	
+}
+#ra{
+	color:white;
+	padding-top:20px;
+	font-family:Arial;
+	padding-left:390px;
+}
+#neco{
+	display:flex;
+	justify-content:space-around;
+	flex-direction:center;
+	background-color:#078212;
+}
+#arc{
+	text-decoration:none;
+	color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+}
+#sla{
+	padding-left:350px ;
+	width:800px;
+	height:300px;
+}
+#italo{
+	font-size:25px;	
+	font-family:Arial;
+
+}
+#lumos{
+	font-size:25px;	
+	font-family:Arial;
+
+	
+}
+p{
+	font-size:25px;
+	font-family:Arial;
+	
+}
+#indi{
+	padding-left:580px;
+}
+#cent{
+	padding-left:130px;
+}
+.grid-container {
+	display:grid;
+	grid-template-rows:repeat(3,200px);
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.grid-item-1{
+	padding-top:15px;
+	grid-row:1/1;
+}
+.grid-item-2{
+	padding-top:15px;
+	grid-row:1/2;
+}
+.grid-item-3{
+	padding-top:15px;
+	grid-row:1/2;
+}
+ 
+#meta{
+	padding-left:600px;
+	font-family:Arial;
+
+}
+#comma{
+	height:400px;
+	font-family:Arial;
+	font-size:20px;
+	background-color: #58b66a;
+	color:white;
+}
+h1{
+	font-family:Arial;
+}
+#form{
+	
+	font-family:Arial;
+	padding-left:300px;
+}
+textarea{
+	font-family:Arial;
+	margin-left:470px;
+}
+@media only screen and (max-width:692px){
+	body{
+		background-color:blue;
+		font-size:15px;
+	}
+}
+@media only screen and (min-width:693px) and (max-width:800px){
+	body{
+		background-color:red;
+		font-size:10px;
+	}
+}
+@media only screen and (min-width:801px) and (max-width:900px){
+	body{
+		background-color:green;
+		font-size:5px;
+	}
+}
+#tier{
+	font-size:20px;
+}
+#S{
+	font-size:15px;
+}
+h3{
+	font-family:Arial;
+}
+h1{
+	font-family:Arial;
+}
+h2{
+	font-family:Arial;
+}
+#ajeito{
+	display:flex;
+	flex-direction:column;
+}
+#r{
+	height:450px;
+	width:90%;
+	
+}
+#y{
+	padding-left:32px;
+	height:450px;
+	width:87%;
+}
+#z{
+	
+	padding-left:85px;
+	height:400px;
+	width:83%;
+}
+#e{
+	
+	padding-left:65px;
+	height:400px;
+	width:83%;
+}
+#muca{
+	text-decoration:none;
+	color:black;
+	font-family:arial;
+	padding-left:615px;
+	font-size:20px;
+}
+#fog{
+	text-decoration:none;
+	color:black;
+	font-family:arial;
+	padding-left:615px;
+	font-size:20px;
+	
+}
